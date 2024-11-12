@@ -200,10 +200,6 @@ int main(){
 
     menu();
 
-    printf("Ola kebab");
-    printf("KEBAB");
-    printf("Outro kebab");
-
 
 
 
